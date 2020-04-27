@@ -1,6 +1,6 @@
 ## Voicy: Zero-Shot Non-Parallel Voice Conversion in Noisy Reverberant Environments
 
-This repository contains audio samples from the paper “Voicy: Zero-Shot Non-Parallel Voice Conversion in Noisy Reverberant Environments” submitted for review to INTERSPEECH 2020. All samples are included in the voicy_vc_samples.html file.
+This repository contains audio samples from the paper “Voicy: Zero-Shot Non-Parallel Voice Conversion in Noisy Reverberant Environments”. All samples are included in the voicy_vc_samples.html file.
 
 ## License Summary
 
